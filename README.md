@@ -18,4 +18,4 @@ go get lib_name
 go run main.go
 ```
 
-# Don't forget to change credentials from .env file
+Don't forget to change credentials from .env file
