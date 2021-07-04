@@ -8,6 +8,11 @@ Repository to test Authorization and Authentication inside Keycloack with Golang
 docker run -p 8080:8080 -e KEYCLOAK_USER=admin -e KEYCLOAK_PASSWORD=admin quay.io/keycloak/keycloak:14.0.0
 ```
 
+- Create mod file 
+```
+go mod init gofile 
+```
+
 - Install libs from golang 
 ```
 go get lib_name
